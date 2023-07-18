@@ -141,3 +141,12 @@ span {
   font-size: 20px;
     font-weight: bold;
 }
+
+#tbl1{
+  margin: 20px 200px;
+    background-color: yellow;
+    border: black 1px dotted;
+  box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+}
