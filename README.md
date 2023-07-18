@@ -6,7 +6,7 @@
 <p>Curso: full Stack Basico - Grupo 1 </p>
 <p>Profesor: Cristian Patiño</p>
 <h2> Punto 1: Link figma</h2>
-<a href="" target="_blank">Link de Figma</a>
+<a href="https://www.figma.com/file/0I1XBwrJoBc4fPucwbwynO/Johanna-Lopez-ejercicio?type=design&mode=design&t=u1gESQLaFLa8E3jQ-1" target="_blank">Link de Figma</a>
 
 <h3> Link Página Web</h3>
 <a href="https://jlochaves.github.io/menu.html"target="_blank">Link página Web</a>
